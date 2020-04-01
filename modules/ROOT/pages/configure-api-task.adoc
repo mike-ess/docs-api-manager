@@ -25,7 +25,7 @@ image::apiconfig.png[height=321,width=321]
 +
 . Above API Configuration, in Add Consumer Endpoint, optionally enter the public-facing URL for the API. For example, enter `+http://product.mydomain.com+`.
 +
-. In *Managing Type* at the bottom of the page, select B*asic Endpoint* or *Endpoint with Proxy*.
+. In *Managing Type* at the bottom of the page, select *Basic Endpoint* or *Endpoint with Proxy*.
 +
 . Select the *Mule version* box if you want to manage APIs in Mule 4 or later.
 . In *Implementation URI*, either enter the URL of the site that hosts the API or accept the default, a dummy URI.
